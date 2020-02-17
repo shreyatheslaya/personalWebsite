@@ -31,6 +31,14 @@ body {
 	transform: rotate(180deg);
 }
 
+.rotate90{
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
 .header {
   background-image: url('images/helloWorldWebsite.png');
   background-size: cover;
@@ -131,6 +139,33 @@ body {
 	padding: 20px 0 20px;
 	background: #F0FFF0;
 }
+.block2{
+	padding: 20px 0 20px;
+	background: #FFFFFF;
+}
+
+.textBlock{
+	padding: 10px 0 10px;
+}
+.documentBlock{
+	padding: 20px 10px 20px;
+	background: #FFFFFF;
+}
+
+}
+
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
+
+.center{
+    float:center;
+}
+
 
 
 @media (max-width: 575.98px) {
