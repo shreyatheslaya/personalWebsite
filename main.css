@@ -32,7 +32,7 @@ body {
 }
 
 .header {
-  background-image: url('images/header-background.jpg');
+  background-image: url('images/helloWorldWebsite.png');
   background-size: cover;
   background-position: center;
   position: relative;
@@ -129,6 +129,7 @@ body {
 
 .block{
 	padding: 20px 0 20px;
+	background: #F0FFF0;
 }
 
 
