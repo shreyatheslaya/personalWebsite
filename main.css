@@ -52,7 +52,7 @@ body {
 	min-width: 100%;
 	left: 0;
 	top: 0;
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.8);
 }
 
 .description {
@@ -136,11 +136,11 @@ body {
 }
 
 .block{
-	padding: 20px 0 20px;
+	padding: 20px 10px 20px;
 	background: #F0FFF0;
 }
 .block2{
-	padding: 20px 0 20px;
+	padding: 20px 10px 20px;
 	background: #FFFFFF;
 }
 
